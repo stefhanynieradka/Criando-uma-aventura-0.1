@@ -1,0 +1,1 @@
+Imagina que você está criando um jogo de escolhas, tipo um livro interativo. A história está dividida em várias **partes** (que chamamos de "passos"), e cada parte tem **botões** com escolhas. Dependendo da opção que você clica, a história vai para um caminho diferente. Isso tudo acontece com **HTML + CSS + JavaScript**.
